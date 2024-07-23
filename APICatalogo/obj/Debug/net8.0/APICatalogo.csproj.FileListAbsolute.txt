@@ -1,0 +1,341 @@
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\bin\Debug\net8.0\appsettings.Development.json
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\bin\Debug\net8.0\appsettings.json
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\bin\Debug\net8.0\APICatalogo.exe
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\bin\Debug\net8.0\APICatalogo.deps.json
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\bin\Debug\net8.0\APICatalogo.runtimeconfig.json
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\bin\Debug\net8.0\APICatalogo.dll
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\bin\Debug\net8.0\APICatalogo.pdb
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.csproj.AssemblyReference.cache
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.AssemblyInfoInputs.cache
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.AssemblyInfo.cs
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.csproj.CoreCompileInputs.cache
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cs
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cache
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets.build.json
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets.development.json
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.APICatalogo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.build.APICatalogo.props
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APICatalogo.props
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APICatalogo.props
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\scopedcss\bundle\APICatalogo.styles.css
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.csproj.CopyComplete
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.dll
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\refint\APICatalogo.dll
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.pdb
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.genruntimeconfig.cache
+D:\___Cursos_Macoratti\Curso_Web_API_NET8_Essencial\3_Cria_API_VisualStudio\3_CriaProjetoNET8\APICatalogo\APICatalogo\obj\Debug\net8.0\ref\APICatalogo.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\appsettings.json
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\APICatalogo.exe
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\APICatalogo.deps.json
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\APICatalogo.runtimeconfig.json
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\APICatalogo.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\APICatalogo.pdb
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.csproj.AssemblyReference.cache
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.AssemblyInfoInputs.cache
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.AssemblyInfo.cs
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.csproj.CoreCompileInputs.cache
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.APICatalogo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.build.APICatalogo.props
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APICatalogo.props
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APICatalogo.props
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\scopedcss\bundle\APICatalogo.styles.css
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatal.C7776A93.Up2Date
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\refint\APICatalogo.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.pdb
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.genruntimeconfig.cache
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\obj\Debug\net8.0\ref\APICatalogo.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\x86\leptonica-1.82.0.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\x86\tesseract50.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\x64\leptonica-1.82.0.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\x64\tesseract50.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Tesseract.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\BitMiracle.LibTiff.NET.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\IronOcr.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\IronSoftware.Abstractions.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\IronSoftware.Logger.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\IronSoftware.Shared.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\IronSoftware.Drawing.Common.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\IronOcrInterop.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\eng.base.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\eng.best.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\eng.fast.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\eng.user-patterns
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\eng.user-words
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\liblept-5.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\libtesseract-5.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\osd.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\pdf.ttf
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\pdf.ttx
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\IronOcrInterop.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\eng.base.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\eng.best.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\eng.fast.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\eng.user-patterns
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\eng.user-words
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\liblept-5.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\libtesseract-5.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\osd.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\pdf.ttf
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\pdf.ttx
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\digitaldoc\Desktop\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\appsettings.json
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\x86\leptonica-1.82.0.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\x86\tesseract50.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\x64\leptonica-1.82.0.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\x64\tesseract50.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\APICatalogo.exe
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\APICatalogo.deps.json
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\APICatalogo.runtimeconfig.json
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\APICatalogo.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\APICatalogo.pdb
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\BitMiracle.LibTiff.NET.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\IronOcr.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\IronSoftware.Abstractions.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\IronSoftware.Logger.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\IronSoftware.Shared.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\IronSoftware.Drawing.Common.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\Tesseract.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\IronOcrInterop.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\eng.base.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\eng.best.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\eng.fast.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\eng.user-patterns
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\eng.user-words
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\liblept-5.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\libtesseract-5.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\osd.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\pdf.ttf
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x64\native\pdf.ttx
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\IronOcrInterop.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\eng.base.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\eng.best.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\eng.fast.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\eng.user-patterns
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\eng.user-words
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\liblept-5.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\libtesseract-5.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\osd.traineddata
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\pdf.ttf
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win-x86\native\pdf.ttx
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\APICatalogo.csproj.AssemblyReference.cache
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\APICatalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\APICatalogo.AssemblyInfoInputs.cache
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\APICatalogo.AssemblyInfo.cs
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\APICatalogo.csproj.CoreCompileInputs.cache
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.APICatalogo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.build.APICatalogo.props
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APICatalogo.props
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APICatalogo.props
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\scopedcss\bundle\APICatalogo.styles.css
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\APICatal.C7776A93.Up2Date
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\APICatalogo.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\refint\APICatalogo.dll
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\APICatalogo.pdb
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\APICatalogo.genruntimeconfig.cache
+C:\Users\digitaldoc\Desktop\APICatalogo - Copia\APICatalogo\obj\Debug\net8.0\ref\APICatalogo.dll
