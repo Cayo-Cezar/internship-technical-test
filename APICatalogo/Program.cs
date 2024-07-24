@@ -1,24 +1,32 @@
+using Hangfire;
+using Hangfire.MySql;
 using APICatalogo.Context;
+using APICatalogo.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
+// Adicionar serviços ao contêiner
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 string mySqlConnection = builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddDbContext<AppDbContext>(options =>
-                 options.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection)));
+    options.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection)));
 
+// Configuração do Hangfire
+builder.Services.AddHangfire(configuration =>
+    configuration.UseStorage(new MySqlStorage(mySqlConnection, new MySqlStorageOptions())));
+builder.Services.AddHangfireServer();
+
+// Registrar o serviço de processamento de arquivos
+builder.Services.AddTransient<FileProcessingService>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configurar o pipeline de requisições HTTP
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -26,9 +34,15 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
+
+// Hangfire Dashboard (opcional)
+app.UseHangfireDashboard();
+
+// Configurar o job recorrente
+RecurringJob.AddOrUpdate<FileProcessingService>(
+    service => service.ProcessFiles(),
+    Cron.Minutely);
 
 app.Run();

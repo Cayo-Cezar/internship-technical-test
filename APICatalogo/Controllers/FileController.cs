@@ -7,7 +7,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using Tesseract; 
 
 namespace APICatalogo.Controllers
 {
@@ -32,7 +31,6 @@ namespace APICatalogo.Controllers
             if (!Directory.Exists(_tessdataPath))
             {
                 Directory.CreateDirectory(_tessdataPath);
-             
             }
         }
 
@@ -46,7 +44,6 @@ namespace APICatalogo.Controllers
                     return BadRequest("Nenhum arquivo enviado.");
                 }
 
-                // Contar o número de arquivos existentes na pasta
                 var existingFilesCount = Directory.GetFiles(_tempFolder).Length;
 
                 foreach (var file in files)
@@ -57,7 +54,6 @@ namespace APICatalogo.Controllers
                         return BadRequest($"O arquivo {file.FileName} não é uma imagem válida.");
                     }
 
-                    // Incrementar o número de arquivos para definir o ArchiveId
                     var archiveId = existingFilesCount + 1;
                     existingFilesCount++;
 
@@ -69,37 +65,15 @@ namespace APICatalogo.Controllers
                         await file.CopyToAsync(stream);
                     }
 
-                    // Processamento do OCR usando Tesseract
-                    string ocrText = string.Empty;
-                    string ocrError = null;
-
-                    try
-                    {
-                        using (var ocrEngine = new TesseractEngine(_tessdataPath, "por", EngineMode.Default))
-                        {
-                            using (var img = Pix.LoadFromFile(filePath))
-                            {
-                                using (var page = ocrEngine.Process(img))
-                                {
-                                    ocrText = page.GetText();
-                                }
-                            }
-                        }
-                    }
-                    catch (Exception ex)
-                    {
-                        ocrError = $"Erro no OCR: {ex.Message}";
-                    }
-
                     var arquivo = new Arquivos
                     {
-                        Id = Guid.NewGuid(), // Mantém o ID como Guid
+                        Id = Guid.NewGuid(),
                         ArchiveId = archiveId,
                         CreateAt = DateTime.Now,
                         ProcessAt = DateTime.Now,
                         ArchivePath = filePath,
-                        Content = ocrText,
-                        Erro = ocrError
+                        Content = null,
+                        Erro = null
                     };
 
                     _context.Arquivos.Add(arquivo);
@@ -107,7 +81,7 @@ namespace APICatalogo.Controllers
 
                 await _context.SaveChangesAsync();
 
-                return Ok("Arquivos de imagem recebidos e processados com sucesso.");
+                return Ok("Arquivos de imagem recebidos e aguardando processamento.");
             }
             catch (Exception ex)
             {
