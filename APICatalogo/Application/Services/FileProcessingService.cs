@@ -1,12 +1,14 @@
-﻿using APICatalogo.Context;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using System;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Tesseract;
+using APICatalogo.WebAPI;
+using APICatalogo.Infrastructure.Data;
 
-namespace APICatalogo.Services
+
+namespace APICatalogo.Application.Services
 {
     public class FileProcessingService
     {

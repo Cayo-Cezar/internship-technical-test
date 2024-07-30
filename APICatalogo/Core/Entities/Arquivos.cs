@@ -1,4 +1,4 @@
-﻿namespace APICatalogo.Models;
+﻿namespace APICatalogo.Core.Entities;
 
 public class Arquivos
 {

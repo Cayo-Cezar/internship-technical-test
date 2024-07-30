@@ -28,7 +28,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Core\Services\" />
+    <Folder Include="Infrastructure\DI\" />
     <Folder Include="TempFiles\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

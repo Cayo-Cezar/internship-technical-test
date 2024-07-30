@@ -1,8 +1,9 @@
 using Hangfire;
 using Hangfire.MySql;
-using APICatalogo.Context;
-using APICatalogo.Services;
 using Microsoft.EntityFrameworkCore;
+using APICatalogo.WebAPI;
+using APICatalogo.Infrastructure.Data;
+using APICatalogo.Application.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,6 +24,9 @@ builder.Services.AddHangfireServer();
 
 // Registrar o serviço de processamento de arquivos
 builder.Services.AddTransient<FileProcessingService>();
+
+// Registrar o serviço de upload de arquivos
+builder.Services.AddScoped<FileService>();
 
 var app = builder.Build();
 
