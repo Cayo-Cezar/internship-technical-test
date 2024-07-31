@@ -1,11 +1,7 @@
 ﻿using APICatalogo.Core.Entities;
 using APICatalogo.Infrastructure.Data;
-using FileProcessingApi.Core.Entities;
 using FileProcessingApi.Core.Interfaces;
-using FileProcessingApi.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace FileProcessingApi.Infrastructure.Repositories
 {

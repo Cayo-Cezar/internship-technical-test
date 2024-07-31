@@ -1,33 +1,27 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using FileProcessingApi.Core.Interfaces;
 using Tesseract;
-using APICatalogo.WebAPI;
-using APICatalogo.Infrastructure.Data;
 
 
 namespace APICatalogo.Application.Services
 {
     public class FileProcessingService
     {
-        private readonly AppDbContext _context;
+        private readonly IArquivoRepository _arquivoRepository;
         private readonly string _tempFolder;
         private readonly string _tessdataPath;
 
-        public FileProcessingService(AppDbContext context)
+        public FileProcessingService(
+            IArquivoRepository arquivoRepository)
         {
-            _context = context;
             _tempFolder = Path.Combine(Directory.GetCurrentDirectory(), "TempFiles");
             _tessdataPath = Path.Combine(Directory.GetCurrentDirectory(), "tessdata");
+            _arquivoRepository = arquivoRepository;
         }
 
         public async Task ProcessFiles()
         {
-            var arquivos = await _context.Arquivos
-                .Where(a => string.IsNullOrEmpty(a.Content) && string.IsNullOrEmpty(a.Erro))
-                .ToListAsync();
+            var arquivos = await _arquivoRepository
+                .GetUnprocessedArquivosAsync();
 
             foreach (var arquivo in arquivos)
             {
@@ -53,10 +47,8 @@ namespace APICatalogo.Application.Services
                     arquivo.Erro = $"Erro no OCR: {ex.Message}";
                 }
 
-                _context.Arquivos.Update(arquivo);
+                await _arquivoRepository.UpdateArquivoAsync(arquivo);
             }
-
-            await _context.SaveChangesAsync();
         }
     }
 }

@@ -4,6 +4,8 @@ using Microsoft.EntityFrameworkCore;
 using APICatalogo.WebAPI;
 using APICatalogo.Infrastructure.Data;
 using APICatalogo.Application.Services;
+using FileProcessingApi.Core.Interfaces;
+using FileProcessingApi.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,6 +29,7 @@ builder.Services.AddTransient<FileProcessingService>();
 
 // Registrar o serviço de upload de arquivos
 builder.Services.AddScoped<FileService>();
+builder.Services.AddScoped<IArquivoRepository, ArquivoRepository>();
 
 var app = builder.Build();
 

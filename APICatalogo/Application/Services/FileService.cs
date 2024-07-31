@@ -1,11 +1,5 @@
 ﻿using APICatalogo.Core.Entities;
-using APICatalogo.Infrastructure.Data;
-using Microsoft.AspNetCore.Http;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
+using FileProcessingApi.Core.Interfaces;
 
 namespace APICatalogo.Application.Services
 {
@@ -13,12 +7,13 @@ namespace APICatalogo.Application.Services
     {
         private readonly string[] _permittedExtensions = { ".jpg", ".jpeg", ".png", ".gif" };
         private readonly string _tempFolder;
-        private readonly AppDbContext _context;
+        private readonly IArquivoRepository _arquivoRepository;
 
-        public FileService(AppDbContext context)
+        public FileService(
+            IArquivoRepository arquivoRepository)
         {
-            _context = context;
             _tempFolder = Path.Combine(Directory.GetCurrentDirectory(), "TempFiles");
+            _arquivoRepository = arquivoRepository;
 
             if (!Directory.Exists(_tempFolder))
             {
@@ -67,10 +62,8 @@ namespace APICatalogo.Application.Services
                         Erro = null
                     };
 
-                    _context.Arquivos.Add(arquivo);
+                    await _arquivoRepository.AddArquivoAsync(arquivo);
                 }
-
-                await _context.SaveChangesAsync();
 
                 return (true, "Arquivos de imagem recebidos e aguardando processamento.");
             }

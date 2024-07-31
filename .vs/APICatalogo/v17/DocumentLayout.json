@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\digitaldoc\\desktop\\apicatalogo - copia\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\digitaldoc\\desktop\\apicatalogo - copia\\apicatalogo\\webapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\webapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\digitaldoc\\desktop\\apicatalogo - copia\\apicatalogo\\application\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\application\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\digitaldoc\\desktop\\apicatalogo - copia\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\digitaldoc\\desktop\\apicatalogo - copia\\apicatalogo\\application\\services\\fileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\application\\services\\fileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\digitaldoc\\desktop\\apicatalogo - copia\\apicatalogo\\infrastructure\\data\\repositories\\arquivorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\infrastructure\\data\\repositories\\arquivorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\digitaldoc\\desktop\\apicatalogo - copia\\apicatalogo\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\digitaldoc\\desktop\\apicatalogo - copia\\apicatalogo\\core\\interfaces\\ifileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\core\\interfaces\\ifileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\digitaldoc\\desktop\\apicatalogo - copia\\apicatalogo\\webapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\webapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FileService.cs",
-              "DocumentMoniker": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Application\\Services\\FileService.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Application\\Services\\FileService.cs",
-              "ToolTip": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Application\\Services\\FileService.cs",
-              "RelativeToolTip": "APICatalogo\\Application\\Services\\FileService.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAmwFMAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "APICatalogo\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T13:33:58.873Z",
+              "WhenOpened": "2024-07-31T12:45:41.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "FileProcessingService.cs",
               "DocumentMoniker": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Application\\Services\\FileProcessingService.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Application\\Services\\FileProcessingService.cs",
               "ToolTip": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Application\\Services\\FileProcessingService.cs",
               "RelativeToolTip": "APICatalogo\\Application\\Services\\FileProcessingService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T13:30:13.495Z",
+              "WhenOpened": "2024-07-31T12:34:08.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FileController.cs",
-              "DocumentMoniker": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\WebAPI\\Controllers\\FileController.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\WebAPI\\Controllers\\FileController.cs",
-              "ToolTip": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\WebAPI\\Controllers\\FileController.cs",
-              "RelativeToolTip": "APICatalogo\\WebAPI\\Controllers\\FileController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T13:26:05.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Program.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
               "ToolTip": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Program.cs",
               "RelativeToolTip": "APICatalogo\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBcAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T12:49:24.392Z",
+              "WhenOpened": "2024-07-31T12:33:58.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFileProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Core\\Interfaces\\IFileProcessingService.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Core\\Interfaces\\IFileProcessingService.cs",
+              "ToolTip": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Core\\Interfaces\\IFileProcessingService.cs",
+              "RelativeToolTip": "APICatalogo\\Core\\Interfaces\\IFileProcessingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:33:47.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArquivoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Infrastructure\\Data\\Repositories\\ArquivoRepository.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Infrastructure\\Data\\Repositories\\ArquivoRepository.cs",
+              "ToolTip": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Infrastructure\\Data\\Repositories\\ArquivoRepository.cs",
+              "RelativeToolTip": "APICatalogo\\Infrastructure\\Data\\Repositories\\ArquivoRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:28:37.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Application\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Application\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\Application\\Services\\FileService.cs",
+              "RelativeToolTip": "APICatalogo\\Application\\Services\\FileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:26:37.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\WebAPI\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\WebAPI\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\digitaldoc\\Desktop\\APICatalogo - Copia\\APICatalogo\\WebAPI\\Controllers\\FileController.cs",
+              "RelativeToolTip": "APICatalogo\\WebAPI\\Controllers\\FileController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:26:32.438Z",
               "EditorCaption": ""
             }
           ]
